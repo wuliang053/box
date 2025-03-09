@@ -2,13 +2,21 @@
 {
     "urls": [
         {
-            "url": "http://饭太硬.com/tv",
+            "url": "http://www.饭太硬.com/tv",
             "name": " 🥨饭太硬"
         },
         {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": " 🧀肥猫宝贝"
-        },               
+        },
+ 	{
+            "url": "https://raw.kkgithub.com/jinenge/tvbox/main/tvbox.json",
+            "name": " 🥞自用线路"
+        },
+	{
+            "url": "https://raw.kkgithub.com/xianyuyimu/TVBOX-/refs/heads/main/TVBox/一木多线路.json",
+            "name": "🆖一木线路"
+        },
        {
             "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": " 🥞小米线路"
@@ -18,7 +26,7 @@
             "name": " 🥞网盘线路"
         },                  
        {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json",
             "name": " 🥞One线路"
         },                  
        {
@@ -106,13 +114,6 @@
             "url": "https://raw.kkgithub.com/ysztcn/ysztcn.github.io/master/tvbox/config.json",
             "name": "🆖影视中天"
         },  
-
-
-
-
-
-
-
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": " 🥨神器推送"

@@ -13,10 +13,6 @@
             "url": "https://raw.kkgithub.com/jinenge/tvbox/main/tvbox.json",
             "name": " 🥞Jinenge线路"
         },
-	{
-            "url": "https://raw.kkgithub.com/xianyuyimu/TVBOX-/refs/heads/main/TVBox/一木多线路.json",
-            "name": "🆖一木线路"
-        },
        {
             "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": " 🥞小米线路"

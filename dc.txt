@@ -11,7 +11,7 @@
         },
  	{
             "url": "https://raw.kkgithub.com/jinenge/tvbox/main/tvbox.json",
-            "name": " 🥞自用线路"
+            "name": " 🥞Jinenge线路"
         },
 	{
             "url": "https://raw.kkgithub.com/xianyuyimu/TVBOX-/refs/heads/main/TVBox/一木多线路.json",

@@ -2,19 +2,27 @@
 {
     "urls": [
         {
+            "url": "http://liucn.cc/box/m.json",
+            "name": "🥚老刘CC"
+        }, 
+	{
             "url": "http://www.饭太硬.com/tv",
             "name": " 🆖饭太硬"
+        },
+        {
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🐹南风线路"
         },
         {
             "url": "http://肥猫.com",
             "name": " 🧀肥猫宝贝"
         },
  	{
-            "url": "https://raw.kkgithub.com/jinenge/tvbox/main/tvbox.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/jinenge/tvbox/main/tvbox.json",
             "name": " 🥞Jinenge线路"
         },
        {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "url": "http://miqk.cc/小米/DEMO.json",
             "name": " 🥞小米线路"
         },               
        {
@@ -22,7 +30,7 @@
             "name": " 🥞网盘线路"
         },                  
        {
-            "url": "https://raw.kkgithub.com/leevi0709/one/main/jsm.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
             "name": " 🥞One线路"
         },                  
        {
@@ -30,22 +38,17 @@
             "name": " 🥞道长线路"
         },           
        {
-            "url": "http://tvbox.王二小放牛娃.top",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": " 🥞牛蛙线路"
         },   
        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": " 🥞次元分享"
         },                 
         {
             "url": "https://100km.top/0",
             "name": " 🥓Ray线路"
         },
-        {
-            "url": "http://liucn.cc/box/m.json",
-            "name": "🥚老刘CC"
-        },                                                     
-
         {
             "url": "https://s2.pub/wuaihezi",
             "name": " 💜吾爱线路"
@@ -63,13 +66,9 @@
             "name": "TSQ线路"
         },
         {
-            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": " 🍳香雅情"
         },  
-        {
-            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐹南风线路"
-        },
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车(有跑马灯)"
@@ -95,11 +94,11 @@
             "name": "巧记线路"
         },  
         {
-            "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/liu673cn/fm/main/m.json",
             "name": "🥨fm-JS"
         },  
         {
-            "url": "https://raw.kkgithub.com/liu673cn/FongMi/main/m.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/liu673cn/FongMi/main/m.json",
             "name": "🍰蜂蜜线路"
         },  
         {
@@ -107,7 +106,7 @@
             "name": "🛑圆周率"
         },  
         {
-            "url": "https://raw.kkgithub.com/ysztcn/ysztcn.github.io/master/tvbox/config.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/ysztcn/ysztcn.github.io/master/tvbox/config.json",
             "name": "🆖影视中天"
         },  
         {
@@ -126,15 +125,15 @@
         },  
 	
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0822.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json",
             "name": " ok线路"
         },
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
             "name": " PG线路"
         },
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": " 高山JS"
         },
         {
@@ -184,7 +183,7 @@
             "name": "🐹夜猫子"
         }, 		
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://gh-proxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🐹高天流云"
         },
         {
@@ -204,7 +203,7 @@
             "name": "💎万达线路"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
             "name": "💎一木线路"
         },        
         {
